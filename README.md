@@ -6,5 +6,5 @@ task : Create a K-means clustering algorithm to group customers of a retail stor
 
 
 
-name : mahesh kumar 
-email id : maheshkvp@gmail.com
+#name : mahesh kumar 
+#email id : maheshkvp@gmail.com
